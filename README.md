@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cheskabtrinidad
+- 👋 Hi, I’m @djeanfoxx
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel MVC 
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me at cheskabtrinidad@gmail.com
 
